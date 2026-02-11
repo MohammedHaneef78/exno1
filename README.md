@@ -1,4 +1,4 @@
-2# Exno:1
+# Exno:1
 Data Cleaning Process
 
 # AIM
