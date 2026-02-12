@@ -120,5 +120,5 @@ df_z_cleaned
 
    
 # Result
-Thus, the Output was verified successfully.
+Hence the data was cleaned.
          
